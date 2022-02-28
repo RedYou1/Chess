@@ -1,0 +1,15 @@
+C:\Users\jcdem\source\repos\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\jcdem\source\repos\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\jcdem\source\repos\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\jcdem\source\repos\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\jcdem\source\repos\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\jcdem\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\jcdem\source\repos\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\jcdem\source\repos\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\jcdem\source\repos\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\jcdem\source\repos\Chess\Chess\bin\Debug\Chess.exe.manifest
+C:\Users\jcdem\source\repos\Chess\Chess\bin\Debug\Chess.application
+C:\Users\jcdem\source\repos\Chess\Chess\obj\Debug\Chess.exe.manifest
+C:\Users\jcdem\source\repos\Chess\Chess\obj\Debug\Chess.application
+C:\Users\jcdem\source\repos\Chess\Chess\bin\Debug\WindowsBase.dll
+C:\Users\jcdem\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
